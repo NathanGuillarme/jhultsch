@@ -1,4 +1,4 @@
-## GOODBYE 👋
+## Hello there 👋
 This document is for you to learn about me, **Julius Hultsch**
 
 ## Let me introduce myself
@@ -13,7 +13,7 @@ A few things I like are:
     * I know a little bit of R and Python
 
 ## What to know more?
-Connect with me on [LinkedOut](https://www.linkedin.com/in/julius-hultsch/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/julius-hultsch/)
 
 <!--
 **jhultsch/jhultsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
